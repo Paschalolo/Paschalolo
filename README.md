@@ -7,7 +7,7 @@ I build deterministic, high-throughput systems from first principles—eliminati
 ---
 
 ### ⚙️ Core Technical Stack
-* **Languages:** C++ (C++23 Modern), C (C11/C23), Assembly (`x86_64`, `ARM64`, PTX ISA ) , CUDA 
+* **Languages:** C++ (C++23 Modern), C (C11/C23), Assembly (`x86_64`, `ARM64`, `PTX ISA` ) , CUDA 
 * **SIMD:** AVX-512, AVX2, NEON
 * **Systems & Networking:** Kernel-bypass (AF_XDP), User-Space PCIe Drivers, io_uring , system_programming 
 * **Concurrency & Memory:** Lock-free/wait-free structures, NUMA-aware allocators, memory ordering
