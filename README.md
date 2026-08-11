@@ -1,4 +1,3 @@
-# Paschal Ahanmisi
 > **Systems Engineer** · Low-Level Software & Microarchitecture
 
 I build deterministic, high-throughput systems from first principles—eliminating OS friction, optimizing for cache and instruction cost, and executing down to the metal.
