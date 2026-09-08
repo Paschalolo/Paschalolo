@@ -11,7 +11,7 @@ I build deterministic, high-throughput systems from first principles—eliminati
 * **SIMD:** AVX-512, AVX2, NEON
 * **Systems & Networking:** Kernel-bypass (AF_XDP), User-Space zero-copy Drivers, io_uring , system_programming 
 * **Concurrency & Memory:** Lock-free/wait-free structures, NUMA-aware allocators, atomic memory ordering
-
+interrupts , ABI , PCIE 
 ---
 
 ### 🚀 Highlights
