@@ -7,7 +7,7 @@ I build deterministic, high-throughput systems from first principles—eliminati
 ---
 
 ### ⚙️ Core Technical Stack
-* **Languages:**  C++ (C++17/20/23, Concepts, Type Traits, CRTP, Zero-Overhead Abstractions, Memory Model) , C (C11/C23), Assembly (`x86_64`, `ARM64`) , CUDA 
+* **Languages:**  C++ (C++17/20/23, Concepts, Type Traits, CRTP, Zero-Overhead Abstractions, Memory Model) , C (C11/C23), Assembly (`x86_64`, `ARM64`)
 * **SIMD:** AVX-512, AVX2, NEON
 * **Systems & Networking:** Kernel-bypass (AF_XDP), User-Space zero-copy Drivers, io_uring , system_programming 
 * **Concurrency & Memory:** Lock-free/wait-free structures, NUMA-aware allocators, atomic memory ordering
